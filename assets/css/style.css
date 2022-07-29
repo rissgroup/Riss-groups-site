@@ -222,6 +222,7 @@ li{
 }
 .btn-one .txt {
     position: relative;
+    color: #ffffff;
     z-index: 1;
 }
 .btn-one:hover,

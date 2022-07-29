@@ -369,7 +369,7 @@ if ($('.testimonial-style1-carousel').length) {
         stagePadding: 0,
         singleItem:true,
         smartSpeed: 500,
-        autoplay: true,
+        autoplay: false,
         autoplayTimeout:6000,
         navText: [ '<span class="fa fa-long-arrow-left"></span>', '<span class="fa fa-long-arrow-right"></span>' ],
         responsive:{
